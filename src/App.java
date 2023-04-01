@@ -3,8 +3,8 @@ import java.util.List;
 
 public class App {
     public static void main(String[] args) throws Exception {
-        // System.out.println("Hello, World!w");
-        var card = new Card();
+        // test default movement
+        Card card = new Card();
         card.print();
     }
 }
